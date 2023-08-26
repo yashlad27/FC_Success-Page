@@ -1,0 +1,49 @@
+/* success-page css file */
+
+.success-page {
+  padding: 30px 0;
+    text-align: center;
+    background: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.success-page .checkmark {
+  font-size: 100px;
+  color: #3ab7a8;
+  line-height: 150px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.success-page h2 {
+  font-weight: bold;
+  color: #322d2d;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.success-page p {
+  color: #605f5f;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 30px;
+}
+
+.success-page a {
+  display: inline-block;
+  padding: 7px 14px;
+  background: #3ab7a8;
+  border-radius: 5px;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.success-page a:hover {
+  opacity: 0.9;
+}
+
+/* success-page css end */
